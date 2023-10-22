@@ -1,0 +1,20 @@
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\bin\Debug\FormoSolo.exe.config
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\bin\Debug\FormoSolo.exe
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\bin\Debug\FormoSolo.pdb
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\AutoClick.Form1.resources
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.Properties.Resources.resources
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\AutoClick.csproj.GenerateResource.cache
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.exe
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.pdb
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\bin\Debug\FormoSolo.exe.config
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\bin\Debug\FormoSolo.exe
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\bin\Debug\FormoSolo.pdb
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\obj\Debug\AutoClick.csproj.AssemblyReference.cache
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\obj\Debug\AutoClick.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\obj\Debug\AutoClick.Form1.resources
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\obj\Debug\FormoSolo.Properties.Resources.resources
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\obj\Debug\AutoClick.csproj.GenerateResource.cache
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\obj\Debug\FormoSolo.exe
+C:\Users\jdelcabr\Dropbox\Proyectos\Mis Proyectos VS\FormoSolo\FormoSolo\obj\Debug\FormoSolo.pdb

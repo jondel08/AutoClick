@@ -1,0 +1,10 @@
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\bin\Debug\FormoSolo.exe.config
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\bin\Debug\FormoSolo.exe
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\bin\Debug\FormoSolo.pdb
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.csprojAssemblyReference.cache
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.Form1.resources
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.Properties.Resources.resources
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.csproj.GenerateResource.cache
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.csproj.CoreCompileInputs.cache
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.exe
+C:\Users\jdelcabr\source\repos\FormoSolo\FormoSolo\obj\Debug\FormoSolo.pdb
